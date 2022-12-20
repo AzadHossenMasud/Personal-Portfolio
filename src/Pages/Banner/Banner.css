@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.banner-des{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-my-name{
+    background: #13B0F5;
+    background: linear-gradient(to right, #13B0F5 0%, #E70FAA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
